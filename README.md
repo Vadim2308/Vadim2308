@@ -1,5 +1,5 @@
 # DSA (Data Structures & Algorithms)
-<a href="https://leetcode.com/sergei-zheludkov"><img alt="leetcode-stats" src="https://leetcode-badge-sage.vercel.app/badge/sergei-zheludkov?bgColor=fff" height="180" style="border-radius: 12px; border: gray solid 1px"></a>
+<a href="https://leetcode.com/vadim2308"><img alt="leetcode-stats" src="https://leetcode-badge-sage.vercel.app/badge/vadim2308?bgColor=fff" height="180" style="border-radius: 12px; border: gray solid 1px"></a>
 
 Stack:
 * **Frontend:** React, TypeScript, Redux, Webpack, Next.js, Svelte, RTK Query, GraphQL, TanStack (Query/Router), Zustand, Tailwind, React Hook Form + Zod/Yup
