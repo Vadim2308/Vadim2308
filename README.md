@@ -2,7 +2,7 @@
 <a href="https://leetcode.com/vadim2308"><img alt="leetcode-stats" src="https://leetcode-badge-sage.vercel.app/badge/vadim2308?bgColor=fff" height="180" style="border-radius: 12px; border: gray solid 1px"></a>
 
 Stack:
-* **Frontend:** React, TypeScript, Redux, Webpack, Next.js, Svelte, RTK Query, GraphQL, TanStack (Query/Router), Zustand, Tailwind, React Hook Form + Zod/Yup
+* **Frontend:** React, TypeScript, Redux, Webpack, Next.js, RTK Query, GraphQL, TanStack (Query/Router), Zustand, Tailwind, React Hook Form + Zod/Yup
 * **Backend:** NestJS, Express, TypeORM/Prisma, PostgreSQL, Redis
 * **DevOps:** Docker, docker-compose, CI/CD
 * **Other:** FSD (Feature Slices Design), Unit/Integration Testing, Agile/Scrum, Nginx, WebSocket, Git, Swagger, Figma, Storybook
