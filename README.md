@@ -5,7 +5,7 @@ Stack:
 * **Frontend:** React, TypeScript, Redux, Webpack, Next.js, RTK Query, GraphQL, TanStack (Query/Router), Zustand, Tailwind, React Hook Form + Zod/Yup
 * **Backend:** NestJS, Express, TypeORM/Prisma, PostgreSQL, Redis
 * **DevOps:** Docker, docker-compose, CI/CD
-* **Other:** FSD (Feature Slices Design), Unit/Integration Testing, Agile/Scrum, Nginx, WebSocket, Git, Swagger, Figma, Storybook
+* **Other:** FSD (Feature Slices Design), Unit/Integration Testing, Agile/Scrum, Nginx, WebSocket, Git, Swagger, Figma, Pixo, Storybook
 
 # Contacts
 
