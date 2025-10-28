@@ -9,4 +9,4 @@ Stack:
 
 # Contacts
 
-<a href="https://t.me/novicky"><img alt="Zheludkov Sergei | Telegram" width="40px" src="https://web.telegram.org/apple-touch-icon.png"/></a>
+<a href="https://t.me/novicky"><img alt="Niziev Vadim | Telegram" width="40px" src="https://web.telegram.org/apple-touch-icon.png"/></a>
