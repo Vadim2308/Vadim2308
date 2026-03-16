@@ -1,5 +1,5 @@
 # LeetCode (Data Structures & Algorithms)
-<a href="https://leetcode.com/vadim2308"><img alt="leetcode-stats" src="https://leetcard.jacoblin.cool/vadim2308?theme=dark&font=Baloo%202&ext=heatmap" height="100%" width="100%"></a>
+<a href="https://leetcode.com/vadim2308"><img alt="leetcode-stats" src="https://leetcard.jacoblin.cool/vadim2308?theme=dark&font=Baloo%202" height="100%" width="100%"></a>
 
 Stack:
 * **Frontend:** React, TypeScript, Redux, Webpack, Next.js, RTK Query, GraphQL, TanStack (Query/Router), Zustand, Tailwind, React Hook Form + Zod/Yup
