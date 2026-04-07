@@ -19,7 +19,7 @@ I build modern web applications with a focus on architecture, performance, and d
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=nestjs)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
