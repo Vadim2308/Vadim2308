@@ -9,6 +9,7 @@ I build modern web applications with a focus on architecture, performance, and d
 ### Frontend
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
 ![RTK Query](https://img.shields.io/badge/-RTK_Query-000?style=for-the-badge&logo=redux)
